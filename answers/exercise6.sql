@@ -1,0 +1,2 @@
+ALTER TABLE ADD Users
+ADD Birthday DATE;
